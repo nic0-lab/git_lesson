@@ -1,3 +1,7 @@
+# A file used by the collaborator
+
+an edit made by the owner.
+
 I am a collaborator!
 
 This is a change I am making on a new branch and not directly on the master
@@ -6,3 +10,5 @@ branch.
 git-flow is an extension of working with branches.
 
 After you make a pull request, you don't have to resubmit it.
+
+This is a change without running `git pull upstream development` first.
