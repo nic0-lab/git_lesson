@@ -1,3 +1,7 @@
+# Collaboration
+
+An edit made by the collaborator.
+
 I am a collaborator!
 
 This is a change I am making on a new branch and not directly on the master
